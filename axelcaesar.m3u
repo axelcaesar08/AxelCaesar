@@ -1,0 +1,19 @@
+#EXTM3U#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="Local",GMA
+http://103.196.177.230:80/alj/alj/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAPAMILYA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Kapamilya_Channel_hd_flat_2022.png" group-title="Local",KAPAMILYA HD
+http://103.196.177.230:80/alj/alj/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="Kids",Cartoon Network
+http://103.196.177.230:80/alj/alj/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Nick_Jr._Channel_logo_%282023%29.png" group-title="Kids",Nick Jr.
+http://103.196.177.230:80/alj/alj/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/330px-Animax_logo.svg.png" group-title="Kids",Animax
+http://103.196.177.230:80/alj/alj/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Kids",Aniplus
+http://103.196.177.230:80/alj/alj/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://download.logo.wine/logo/HBO_(Asia)/HBO_(Asia)-Logo.wine.png" group-title="English Movies",HBO
+http://103.196.177.230:80/alj/alj/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/DreamWorks_Animation_2004.png" group-title="English Movies",Dreamworks
+http://103.196.177.230:80/alj/alj/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="English Movies",Cinemax
+http://103.196.177.230:80/alj/alj/81.m3u8
